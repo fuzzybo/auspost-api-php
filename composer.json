@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "fuzzybo/guzzle": "^3.7"
+        "fuzzybo/guzzle": "dev-main"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
